@@ -1,0 +1,15 @@
+{
+  "pack": "famicons",
+  "name": "Famicons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/danklammer/famicons",
+  "website": "https://github.com/danklammer/famicons",
+  "source": "https://github.com/danklammer/famicons",
+  "attribution": "Famicons, MIT License.",
+  "style": "filled",
+  "category": "brands",
+  "sourceIcons": 1342,
+  "imported": 1342,
+  "skipped": 0
+}

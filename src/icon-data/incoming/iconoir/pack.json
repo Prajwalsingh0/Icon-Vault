@@ -1,0 +1,14 @@
+{
+  "pack": "iconoir",
+  "name": "Iconoir",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/iconoir-icons/iconoir/blob/main/LICENSE",
+  "website": "https://iconoir.com",
+  "source": "https://github.com/iconoir-icons/iconoir",
+  "attribution": "Iconoir, MIT License.",
+  "style": "outline",
+  "sourceIcons": 1682,
+  "imported": 1671,
+  "skipped": 11
+}

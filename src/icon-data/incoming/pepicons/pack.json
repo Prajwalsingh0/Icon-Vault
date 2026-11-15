@@ -1,0 +1,15 @@
+{
+  "pack": "pepicons",
+  "name": "Pepicons",
+  "license": "CC-BY-4.0",
+  "licenseName": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "website": "https://www.figma.com/community/file/854130733145349679",
+  "source": "https://github.com/imgly/pepicons",
+  "attribution": "Pepicons by IMG.LY, CC BY 4.0. Attribution required.",
+  "attributionRequired": true,
+  "style": "outline",
+  "sourceIcons": 428,
+  "imported": 428,
+  "skipped": 0
+}

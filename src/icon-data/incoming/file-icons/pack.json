@@ -1,0 +1,15 @@
+{
+  "pack": "file-icons",
+  "name": "File Icons",
+  "license": "ISC",
+  "licenseName": "ISC License",
+  "licenseUrl": "https://github.com/file-icons-js/file-icons-js/blob/master/LICENSE",
+  "website": "https://github.com/file-icons-js/file-icons-js",
+  "source": "https://github.com/file-icons-js/file-icons-js",
+  "attribution": "File Icons by NPM/file-icons-js, ISC License.",
+  "style": "color",
+  "category": "files",
+  "sourceIcons": 930,
+  "imported": 930,
+  "skipped": 0
+}

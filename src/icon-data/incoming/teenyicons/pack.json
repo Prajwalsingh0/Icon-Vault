@@ -1,0 +1,14 @@
+{
+  "pack": "teenyicons",
+  "name": "Teenyicons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/teenyicons/teenyicons/blob/master/LICENSE",
+  "website": "https://teenyicons.com",
+  "source": "https://github.com/teenyicons/teenyicons",
+  "attribution": "Teenyicons, MIT License.",
+  "style": "outline",
+  "sourceIcons": 1200,
+  "imported": 1200,
+  "skipped": 0
+}

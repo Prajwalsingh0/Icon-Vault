@@ -1,0 +1,14 @@
+{
+  "pack": "gravity-ui",
+  "name": "Gravity UI Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/gravity-ui/icons/blob/main/LICENSE",
+  "website": "https://gravity-ui.com",
+  "source": "https://github.com/gravity-ui/icons",
+  "attribution": "Gravity UI Icons, MIT License.",
+  "style": "outline",
+  "sourceIcons": 809,
+  "imported": 809,
+  "skipped": 0
+}

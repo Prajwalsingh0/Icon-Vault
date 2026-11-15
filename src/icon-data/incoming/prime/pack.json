@@ -1,0 +1,14 @@
+{
+  "pack": "prime",
+  "name": "PrimeIcons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/primefaces/primeicons/blob/master/LICENSE.md",
+  "website": "https://primevue.org/icons/",
+  "source": "https://github.com/primefaces/primeicons",
+  "attribution": "PrimeIcons by PrimeTek, MIT License.",
+  "style": "filled",
+  "sourceIcons": 313,
+  "imported": 313,
+  "skipped": 0
+}

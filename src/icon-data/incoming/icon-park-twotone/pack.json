@@ -1,0 +1,14 @@
+{
+  "pack": "icon-park-twotone",
+  "name": "Icon Park Twotone",
+  "license": "Apache-2.0",
+  "licenseName": "Apache License 2.0",
+  "licenseUrl": "https://github.com/bytedance/IconPark/blob/main/LICENSE",
+  "website": "https://iconpark.oceanengine.com",
+  "source": "https://github.com/bytedance/IconPark",
+  "attribution": "Icon Park Twotone by ByteDance, Apache License 2.0.",
+  "style": "duotone",
+  "sourceIcons": 1947,
+  "imported": 1944,
+  "skipped": 3
+}

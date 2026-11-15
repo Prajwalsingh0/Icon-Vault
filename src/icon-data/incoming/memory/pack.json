@@ -1,0 +1,14 @@
+{
+  "pack": "memory",
+  "name": "Memory Icons",
+  "license": "Apache-2.0",
+  "licenseName": "Apache License 2.0",
+  "licenseUrl": "https://github.com/BLACK-OUT-OS/icons/blob/main/LICENSE",
+  "website": "https://github.com/BLACK-OUT-OS/icons",
+  "source": "https://github.com/BLACK-OUT-OS/icons",
+  "attribution": "Memory Icons, Apache License 2.0.",
+  "style": "filled",
+  "sourceIcons": 651,
+  "imported": 651,
+  "skipped": 0
+}

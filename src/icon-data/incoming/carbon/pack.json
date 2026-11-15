@@ -1,0 +1,14 @@
+{
+  "pack": "carbon",
+  "name": "Carbon Design Icons",
+  "license": "Apache-2.0",
+  "licenseName": "Apache License 2.0",
+  "licenseUrl": "https://github.com/carbon-design-system/carbon/blob/main/LICENSE",
+  "website": "https://carbondesignsystem.com/elements/icons/overview/",
+  "source": "https://github.com/carbon-design-system/carbon",
+  "attribution": "Carbon Design Icons by IBM, Apache License 2.0.",
+  "style": "filled",
+  "sourceIcons": 2789,
+  "imported": 2644,
+  "skipped": 145
+}

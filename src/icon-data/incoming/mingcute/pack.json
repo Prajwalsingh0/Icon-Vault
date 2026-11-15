@@ -1,0 +1,13 @@
+{
+  "pack": "mingcute",
+  "name": "MingCute Icons",
+  "license": "Apache-2.0",
+  "licenseName": "Apache License 2.0",
+  "licenseUrl": "https://github.com/Richard9394/Mingcute/blob/main/LICENSE",
+  "website": "https://www.mingcute.com",
+  "source": "https://github.com/Richard9394/Mingcute",
+  "attribution": "MingCute Icons by MingCute, Apache License 2.0.",
+  "sourceIcons": 4542,
+  "imported": 4526,
+  "skipped": 16
+}

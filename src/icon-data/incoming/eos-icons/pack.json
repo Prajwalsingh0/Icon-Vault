@@ -1,0 +1,14 @@
+{
+  "pack": "eos-icons",
+  "name": "EOS Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/EOSUI/eos-icons/blob/master/LICENSE",
+  "website": "https://eos-icons.com",
+  "source": "https://github.com/EOSUI/eos-icons",
+  "attribution": "EOS Icons, MIT License.",
+  "style": "outline",
+  "sourceIcons": 253,
+  "imported": 253,
+  "skipped": 0
+}

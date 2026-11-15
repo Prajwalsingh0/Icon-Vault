@@ -1,0 +1,16 @@
+{
+  "pack": "cryptocurrency",
+  "name": "Cryptocurrency Icons",
+  "license": "CC0-1.0",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "website": "https://github.com/spothq/cryptocurrency-icons",
+  "source": "https://github.com/spothq/cryptocurrency-icons",
+  "attribution": "Cryptocurrency Icons is released under CC0. Coin names and logos are trademarks of their owners.",
+  "attributionRequired": true,
+  "style": "brand",
+  "category": "brands",
+  "sourceIcons": 483,
+  "imported": 483,
+  "skipped": 0
+}

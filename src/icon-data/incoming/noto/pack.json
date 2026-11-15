@@ -1,0 +1,15 @@
+{
+  "pack": "noto",
+  "name": "Noto Emoji",
+  "license": "Apache-2.0",
+  "licenseName": "Apache License 2.0",
+  "licenseUrl": "https://github.com/googlefonts/noto-emoji/blob/main/LICENSE",
+  "website": "https://googlefonts.github.io/noto-emoji-animation/",
+  "source": "https://github.com/googlefonts/noto-emoji",
+  "attribution": "Noto Emoji by Google, Apache License 2.0.",
+  "style": "color",
+  "category": "emoji",
+  "sourceIcons": 3819,
+  "imported": 3729,
+  "skipped": 90
+}

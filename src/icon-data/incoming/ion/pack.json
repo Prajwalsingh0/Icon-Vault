@@ -1,0 +1,13 @@
+{
+  "pack": "ion",
+  "name": "Ionicons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/ionic-team/ionicons/blob/main/LICENSE",
+  "website": "https://ionic.io/ionicons",
+  "source": "https://github.com/ionic-team/ionicons",
+  "attribution": "Ionicons by the Ionic team, MIT License.",
+  "sourceIcons": 2361,
+  "imported": 1357,
+  "skipped": 1004
+}

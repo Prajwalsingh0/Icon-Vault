@@ -1,0 +1,14 @@
+{
+  "pack": "mynaui",
+  "name": "MyNaui Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/Mynaui/icons/blob/main/LICENSE",
+  "website": "https://mynaui.com",
+  "source": "https://github.com/Mynaui/icons",
+  "attribution": "MyNaui Icons, MIT License.",
+  "style": "outline",
+  "sourceIcons": 2658,
+  "imported": 2620,
+  "skipped": 38
+}

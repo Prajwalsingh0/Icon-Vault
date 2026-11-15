@@ -1,0 +1,14 @@
+{
+  "pack": "catppuccin",
+  "name": "Catppuccin Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/catppuccin/icons/blob/main/LICENSE",
+  "website": "https://github.com/catppuccin/icons",
+  "source": "https://github.com/catppuccin/icons",
+  "attribution": "Catppuccin Icons, MIT License.",
+  "style": "color",
+  "sourceIcons": 659,
+  "imported": 656,
+  "skipped": 3
+}

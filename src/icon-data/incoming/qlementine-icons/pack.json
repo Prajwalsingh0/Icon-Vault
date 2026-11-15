@@ -1,0 +1,14 @@
+{
+  "pack": "qlementine-icons",
+  "name": "Qlementine Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/rumnyczech/qlementine-icons/blob/master/LICENSE",
+  "website": "https://github.com/rumnyczech/qlementine-icons",
+  "source": "https://github.com/rumnyczech/qlementine-icons",
+  "attribution": "Qlementine Icons, MIT License.",
+  "style": "outline",
+  "sourceIcons": 905,
+  "imported": 905,
+  "skipped": 0
+}

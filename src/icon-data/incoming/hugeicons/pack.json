@@ -1,0 +1,14 @@
+{
+  "pack": "hugeicons",
+  "name": "Hugeicons Free",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/hugeicons/hugeicons/blob/master/LICENSE",
+  "website": "https://hugeicons.com",
+  "source": "https://github.com/hugeicons/hugeicons",
+  "attribution": "Hugeicons Free, MIT License.",
+  "style": "outline",
+  "sourceIcons": 6091,
+  "imported": 6065,
+  "skipped": 26
+}

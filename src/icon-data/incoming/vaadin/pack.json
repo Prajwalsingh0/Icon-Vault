@@ -1,0 +1,14 @@
+{
+  "pack": "vaadin",
+  "name": "Vaadin Icons",
+  "license": "Apache-2.0",
+  "licenseName": "Apache License 2.0",
+  "licenseUrl": "https://github.com/vaadin/web-components/blob/master/LICENSE.md",
+  "website": "https://vaadin.com/docs/latest/components/icons",
+  "source": "https://github.com/vaadin/web-components",
+  "attribution": "Vaadin Icons, Apache License 2.0.",
+  "style": "outline",
+  "sourceIcons": 636,
+  "imported": 636,
+  "skipped": 0
+}

@@ -1,0 +1,16 @@
+{
+  "pack": "logos",
+  "name": "Logos",
+  "license": "CC0-1.0",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "website": "https://github.com/gilbarbara/logos",
+  "source": "https://github.com/gilbarbara/logos",
+  "attribution": "Logos is released under CC0. Brand names and logos are trademarks of their owners.",
+  "attributionRequired": true,
+  "style": "brand",
+  "category": "brands",
+  "sourceIcons": 2305,
+  "imported": 2066,
+  "skipped": 239
+}

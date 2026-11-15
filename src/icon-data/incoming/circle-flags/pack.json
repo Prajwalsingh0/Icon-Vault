@@ -1,0 +1,15 @@
+{
+  "pack": "circle-flags",
+  "name": "Circle Flags",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/HatScripts/circle-flags/blob/master/LICENSE",
+  "website": "https://circle-flags.sh",
+  "source": "https://github.com/HatScripts/circle-flags",
+  "attribution": "Circle Flags by HatScripts, MIT License.",
+  "style": "color",
+  "category": "flags",
+  "sourceIcons": 696,
+  "imported": 444,
+  "skipped": 252
+}

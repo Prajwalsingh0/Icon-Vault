@@ -1,0 +1,14 @@
+{
+  "pack": "jam",
+  "name": "Jam Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/michaelampr/jam-icons/blob/master/LICENSE",
+  "website": "https://jam-icons.com",
+  "source": "https://github.com/michaelampr/jam-icons",
+  "attribution": "Jam Icons by Michael Amprimo, MIT License.",
+  "style": "filled",
+  "sourceIcons": 940,
+  "imported": 940,
+  "skipped": 0
+}

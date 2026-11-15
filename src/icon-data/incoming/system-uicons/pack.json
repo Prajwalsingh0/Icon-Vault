@@ -1,0 +1,14 @@
+{
+  "pack": "system-uicons",
+  "name": "System UIcons",
+  "license": "Unlicense",
+  "licenseName": "The Unlicense",
+  "licenseUrl": "https://unlicense.org",
+  "website": "https://systemuicons.com",
+  "source": "https://github.com/CoreyGinnivan/system-uicons",
+  "attribution": "System UIcons, public domain (Unlicense).",
+  "style": "outline",
+  "sourceIcons": 430,
+  "imported": 430,
+  "skipped": 0
+}

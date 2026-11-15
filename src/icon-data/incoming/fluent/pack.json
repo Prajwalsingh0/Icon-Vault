@@ -1,0 +1,13 @@
+{
+  "pack": "fluent",
+  "name": "Fluent UI System Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/microsoft/fluentui-system-icons/blob/main/LICENSE",
+  "website": "https://fluent.microsoft.com",
+  "source": "https://github.com/microsoft/fluentui-system-icons",
+  "attribution": "Fluent UI System Icons by Microsoft, MIT License.",
+  "sourceIcons": 20334,
+  "imported": 19945,
+  "skipped": 389
+}

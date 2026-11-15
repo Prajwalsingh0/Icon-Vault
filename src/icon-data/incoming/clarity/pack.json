@@ -1,0 +1,14 @@
+{
+  "pack": "clarity",
+  "name": "Clarity Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/microsoft/clarity/blob/main/LICENSE",
+  "website": "https://clarity.microsoft.com",
+  "source": "https://github.com/microsoft/clarity",
+  "attribution": "Clarity Icons by Microsoft, MIT License.",
+  "style": "outline",
+  "sourceIcons": 1105,
+  "imported": 1103,
+  "skipped": 2
+}

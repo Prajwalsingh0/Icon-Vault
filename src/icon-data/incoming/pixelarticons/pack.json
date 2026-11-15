@@ -1,0 +1,14 @@
+{
+  "pack": "pixelarticons",
+  "name": "Pixelart Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/halfmage/pixelarticons/blob/master/LICENSE",
+  "website": "https://pixelarticons.com",
+  "source": "https://github.com/halfmage/pixelarticons",
+  "attribution": "Pixelart Icons by halfmage, MIT License.",
+  "style": "filled",
+  "sourceIcons": 1306,
+  "imported": 1036,
+  "skipped": 270
+}

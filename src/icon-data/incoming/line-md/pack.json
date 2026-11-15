@@ -1,0 +1,15 @@
+{
+  "pack": "line-md",
+  "name": "Line MD Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/cyberalien/line-md/blob/master/LICENSE",
+  "website": "https://line-md.com",
+  "source": "https://github.com/cyberalien/line-md",
+  "attribution": "Line MD Icons by cyberalien, MIT License.",
+  "style": "animated",
+  "category": "animated",
+  "sourceIcons": 1233,
+  "imported": 1218,
+  "skipped": 15
+}

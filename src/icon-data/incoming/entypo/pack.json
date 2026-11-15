@@ -1,0 +1,15 @@
+{
+  "pack": "entypo",
+  "name": "Entypo",
+  "license": "CC-BY-SA-4.0",
+  "licenseName": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "website": "http://www.entypo.com",
+  "source": "https://github.com/danielbruce/entypo",
+  "attribution": "Entypo by Daniel Bruce, CC BY-SA 3.0. Attribution required.",
+  "attributionRequired": true,
+  "style": "filled",
+  "sourceIcons": 321,
+  "imported": 321,
+  "skipped": 0
+}

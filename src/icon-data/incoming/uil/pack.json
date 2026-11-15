@@ -1,0 +1,14 @@
+{
+  "pack": "uil",
+  "name": "Unicons",
+  "license": "Apache-2.0",
+  "licenseName": "Apache License 2.0",
+  "licenseUrl": "https://github.com/Iconscout/unicons/blob/master/LICENSE",
+  "website": "https://iconscout.com/unicons",
+  "source": "https://github.com/Iconscout/unicons",
+  "attribution": "Unicons by Iconscout, Apache License 2.0.",
+  "style": "filled",
+  "sourceIcons": 1216,
+  "imported": 1215,
+  "skipped": 1
+}

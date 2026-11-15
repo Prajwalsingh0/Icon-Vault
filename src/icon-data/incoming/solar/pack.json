@@ -1,0 +1,14 @@
+{
+  "pack": "solar",
+  "name": "Solar Icons",
+  "license": "CC-BY-4.0",
+  "licenseName": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "website": "https://www.figma.com/community/file/1166831539721848736",
+  "source": "https://github.com/480-Design/Solar-Icon-Set",
+  "attribution": "Solar Icons by 480 Design, CC BY 4.0. Attribution required.",
+  "attributionRequired": true,
+  "sourceIcons": 9255,
+  "imported": 9102,
+  "skipped": 153
+}

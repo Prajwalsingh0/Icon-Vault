@@ -1,0 +1,15 @@
+{
+  "pack": "vscode-icons",
+  "name": "VS Code Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/vscode-icons/vscode-icons/blob/main/LICENSE",
+  "website": "https://github.com/vscode-icons/vscode-icons",
+  "source": "https://github.com/vscode-icons/vscode-icons",
+  "attribution": "VS Code Icons, MIT License.",
+  "style": "color",
+  "category": "files",
+  "sourceIcons": 1727,
+  "imported": 1720,
+  "skipped": 7
+}

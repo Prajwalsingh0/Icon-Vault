@@ -1,0 +1,14 @@
+{
+  "pack": "mdi",
+  "name": "Material Design Icons",
+  "license": "Apache-2.0",
+  "licenseName": "Apache License 2.0",
+  "licenseUrl": "https://github.com/material-icons/material-icons/blob/master/LICENSE",
+  "website": "https://materialdesignicons.com",
+  "source": "https://github.com/material-icons/material-icons",
+  "attribution": "Material Design Icons by the Material Design Icons community, Apache License 2.0.",
+  "style": "filled",
+  "sourceIcons": 7638,
+  "imported": 7447,
+  "skipped": 191
+}

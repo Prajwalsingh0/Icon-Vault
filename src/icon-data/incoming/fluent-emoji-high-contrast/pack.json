@@ -1,0 +1,15 @@
+{
+  "pack": "fluent-emoji-high-contrast",
+  "name": "Fluent Emoji (High Contrast)",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE",
+  "website": "https://fluentemoji.com",
+  "source": "https://github.com/microsoft/fluentui-emoji",
+  "attribution": "Fluent Emoji by Microsoft, MIT License.",
+  "style": "color",
+  "category": "emoji",
+  "sourceIcons": 1594,
+  "imported": 1594,
+  "skipped": 0
+}

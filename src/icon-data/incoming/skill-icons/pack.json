@@ -1,0 +1,15 @@
+{
+  "pack": "skill-icons",
+  "name": "Skill Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/tandpfun/skill-icons/blob/main/LICENSE",
+  "website": "https://github.com/tandpfun/skill-icons",
+  "source": "https://github.com/tandpfun/skill-icons",
+  "attribution": "Skill Icons by Lars Kappert, MIT License.",
+  "style": "color",
+  "category": "brands",
+  "sourceIcons": 400,
+  "imported": 400,
+  "skipped": 0
+}

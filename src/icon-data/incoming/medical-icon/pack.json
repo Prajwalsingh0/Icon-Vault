@@ -1,0 +1,15 @@
+{
+  "pack": "medical-icon",
+  "name": "Medical Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/Chanzhaohu/medical-icons/blob/main/LICENSE",
+  "website": "https://github.com/Chanzhaohu/medical-icons",
+  "source": "https://github.com/Chanzhaohu/medical-icons",
+  "attribution": "Medical Icons, MIT License.",
+  "style": "filled",
+  "category": "medical",
+  "sourceIcons": 144,
+  "imported": 144,
+  "skipped": 0
+}

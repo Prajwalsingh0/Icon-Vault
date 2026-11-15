@@ -1,0 +1,14 @@
+{
+  "pack": "meteor-icons",
+  "name": "Meteor Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/astro-seek/meteor-icons/blob/master/LICENSE",
+  "website": "https://www.meteoricons.com",
+  "source": "https://github.com/astro-seek/meteor-icons",
+  "attribution": "Meteor Icons, MIT License.",
+  "style": "filled",
+  "sourceIcons": 431,
+  "imported": 409,
+  "skipped": 22
+}

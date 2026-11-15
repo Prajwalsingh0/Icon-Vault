@@ -1,0 +1,16 @@
+{
+  "pack": "simple-icons",
+  "name": "Simple Icons (Iconify)",
+  "license": "CC0-1.0",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md",
+  "website": "https://simpleicons.org",
+  "source": "https://github.com/simple-icons/simple-icons",
+  "attribution": "Simple Icons is released under CC0. Brand names and logos are trademarks of their owners.",
+  "attributionRequired": true,
+  "style": "brand",
+  "category": "brands",
+  "sourceIcons": 3743,
+  "imported": 3470,
+  "skipped": 273
+}

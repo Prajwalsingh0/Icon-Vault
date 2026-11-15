@@ -1,0 +1,14 @@
+{
+  "pack": "flat-color-icons",
+  "name": "Flat Color Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/Icons8/flat-Color-icons/blob/master/LICENSE",
+  "website": "https://icons8.com",
+  "source": "https://github.com/Icons8/flat-Color-icons",
+  "attribution": "Flat Color Icons by Icons8, MIT License.",
+  "style": "color",
+  "sourceIcons": 329,
+  "imported": 329,
+  "skipped": 0
+}

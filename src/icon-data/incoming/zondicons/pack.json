@@ -1,0 +1,14 @@
+{
+  "pack": "zondicons",
+  "name": "Zondicons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/zone-eu/wires/blob/master/LICENSE",
+  "website": "https://www.zondicons.com",
+  "source": "https://github.com/zone-eu/wires",
+  "attribution": "Zondicons by Andrew Welch, MIT License.",
+  "style": "outline",
+  "sourceIcons": 297,
+  "imported": 297,
+  "skipped": 0
+}

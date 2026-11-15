@@ -1,0 +1,14 @@
+{
+  "pack": "grommet-icons",
+  "name": "Grommet Icons",
+  "license": "Apache-2.0",
+  "licenseName": "Apache License 2.0",
+  "licenseUrl": "https://github.com/grommet/grommet-icons/blob/master/LICENSE",
+  "website": "https://v2.grommet.io/icons",
+  "source": "https://github.com/grommet/grommet-icons",
+  "attribution": "Grommet Icons by the Grommet team, Apache License 2.0.",
+  "style": "outline",
+  "sourceIcons": 637,
+  "imported": 636,
+  "skipped": 1
+}

@@ -1,0 +1,14 @@
+{
+  "pack": "akar-icons",
+  "name": "Akar Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/artcoholic/akar-icons/blob/master/LICENSE",
+  "website": "https://akaricons.com",
+  "source": "https://github.com/artcoholic/akar-icons",
+  "attribution": "Akar Icons by Artcoholic, MIT License.",
+  "style": "outline",
+  "sourceIcons": 458,
+  "imported": 454,
+  "skipped": 4
+}

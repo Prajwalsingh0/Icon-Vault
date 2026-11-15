@@ -1,0 +1,16 @@
+{
+  "pack": "emojione-monotone",
+  "name": "EmojiOne Monotone",
+  "license": "CC-BY-4.0",
+  "licenseName": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "website": "https://emojipedia.org",
+  "source": "https://github.com/joypixels/emojione",
+  "attribution": "EmojiOne Monotone by JoyPixels, CC BY 4.0. Attribution required.",
+  "attributionRequired": true,
+  "style": "filled",
+  "category": "emoji",
+  "sourceIcons": 1403,
+  "imported": 1403,
+  "skipped": 0
+}

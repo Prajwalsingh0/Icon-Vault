@@ -1,0 +1,14 @@
+{
+  "pack": "radix-icons",
+  "name": "Radix Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/radix-ui/icons/blob/main/LICENSE.md",
+  "website": "https://www.radix-ui.com/icons",
+  "source": "https://github.com/radix-ui/icons",
+  "attribution": "Radix Icons by WorkOS, MIT License.",
+  "style": "outline",
+  "sourceIcons": 342,
+  "imported": 332,
+  "skipped": 10
+}

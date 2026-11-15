@@ -1,0 +1,14 @@
+{
+  "pack": "mdi-light",
+  "name": "Material Design Icons Light",
+  "license": "OFL-1.1",
+  "licenseName": "SIL Open Font License 1.1",
+  "licenseUrl": "https://openfontlicense.org",
+  "website": "https://materialdesignicons.com",
+  "source": "https://github.com/material-icons/material-icons",
+  "attribution": "Material Design Icons Light, SIL Open Font License 1.1.",
+  "style": "outline",
+  "sourceIcons": 304,
+  "imported": 284,
+  "skipped": 20
+}

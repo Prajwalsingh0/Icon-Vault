@@ -1,0 +1,14 @@
+{
+  "pack": "streamline",
+  "name": "Streamline Free Icons",
+  "license": "CC-BY-4.0",
+  "licenseName": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "website": "https://www.streamlinehq.com",
+  "source": "https://github.com/webstreamline/streamline-icons",
+  "attribution": "Streamline Free Icons by Streamline, CC BY 4.0. Attribution required.",
+  "attributionRequired": true,
+  "sourceIcons": 3933,
+  "imported": 3000,
+  "skipped": 933
+}

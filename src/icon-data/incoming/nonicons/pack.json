@@ -1,0 +1,14 @@
+{
+  "pack": "nonicons",
+  "name": "Nonicons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/psd-booth/nonicons/blob/main/LICENSE",
+  "website": "https://non.icons",
+  "source": "https://github.com/psd-booth/nonicons",
+  "attribution": "Nonicons, MIT License.",
+  "style": "outline",
+  "sourceIcons": 69,
+  "imported": 69,
+  "skipped": 0
+}

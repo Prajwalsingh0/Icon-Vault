@@ -1,0 +1,13 @@
+{
+  "pack": "bx",
+  "name": "Boxicons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/atisawd/boxicons/blob/master/LICENSE",
+  "website": "https://boxicons.com",
+  "source": "https://github.com/atisawd/boxicons",
+  "attribution": "Boxicons by Atisa, MIT License.",
+  "sourceIcons": 1609,
+  "imported": 814,
+  "skipped": 795
+}

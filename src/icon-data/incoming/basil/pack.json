@@ -1,0 +1,15 @@
+{
+  "pack": "basil",
+  "name": "Basil Icons",
+  "license": "CC-BY-4.0",
+  "licenseName": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "website": "https://basil.so",
+  "source": "https://github.com/basiljs/icons",
+  "attribution": "Basil Icons, CC BY 4.0. Attribution required.",
+  "attributionRequired": true,
+  "style": "outline",
+  "sourceIcons": 496,
+  "imported": 493,
+  "skipped": 3
+}

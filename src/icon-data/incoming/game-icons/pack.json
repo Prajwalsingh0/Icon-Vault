@@ -1,0 +1,16 @@
+{
+  "pack": "game-icons",
+  "name": "Game Icons",
+  "license": "CC-BY-3.0",
+  "licenseName": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "website": "https://game-icons.net",
+  "source": "https://github.com/game-icons/icons",
+  "attribution": "Game Icons by game-icons.net contributors, CC BY 3.0. Attribution required.",
+  "attributionRequired": true,
+  "style": "outline",
+  "category": "gaming",
+  "sourceIcons": 4134,
+  "imported": 4133,
+  "skipped": 1
+}

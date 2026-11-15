@@ -1,0 +1,14 @@
+{
+  "pack": "gg",
+  "name": "css.gg",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/astrit/css.gg/blob/master/LICENSE",
+  "website": "https://css.gg",
+  "source": "https://github.com/astrit/css.gg",
+  "attribution": "css.gg by Astrit Maliaj, MIT License.",
+  "style": "filled",
+  "sourceIcons": 704,
+  "imported": 704,
+  "skipped": 0
+}

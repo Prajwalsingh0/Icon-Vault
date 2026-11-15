@@ -1,0 +1,14 @@
+{
+  "pack": "uim",
+  "name": "UIM Icons",
+  "license": "Apache-2.0",
+  "licenseName": "Apache License 2.0",
+  "licenseUrl": "https://github.com/uimods/icons/blob/main/LICENSE",
+  "website": "https://uimods.com/icons",
+  "source": "https://github.com/uimods/icons",
+  "attribution": "UIM Icons, Apache License 2.0.",
+  "style": "outline",
+  "sourceIcons": 298,
+  "imported": 298,
+  "skipped": 0
+}

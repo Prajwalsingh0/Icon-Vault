@@ -1,0 +1,15 @@
+{
+  "pack": "iconamoon",
+  "name": "Iconamoon",
+  "license": "CC-BY-4.0",
+  "licenseName": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "website": "https://iconamoon.com",
+  "source": "https://github.com/xxczaki/icons",
+  "attribution": "Iconamoon by @xxczaki, CC BY 4.0. Attribution required.",
+  "attributionRequired": true,
+  "style": "outline",
+  "sourceIcons": 1781,
+  "imported": 1781,
+  "skipped": 0
+}

@@ -1,0 +1,15 @@
+{
+  "pack": "lets-icons",
+  "name": "Lets Icons",
+  "license": "CC-BY-4.0",
+  "licenseName": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "website": "https://www.figma.com/community/file/886554014393250663",
+  "source": "https://github.com/Stormix07/lets-icons",
+  "attribution": "Lets Icons by Icons8/Stormix, CC BY 4.0. Attribution required.",
+  "attributionRequired": true,
+  "style": "outline",
+  "sourceIcons": 1544,
+  "imported": 1528,
+  "skipped": 16
+}

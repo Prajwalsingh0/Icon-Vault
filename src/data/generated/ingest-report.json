@@ -1,0 +1,220 @@
+{
+  "icons": 19048,
+  "counts": {
+    "lucide": 2051,
+    "tabler": 6275,
+    "heroicons": 644,
+    "phosphor": 4533,
+    "bootstrap": 2076,
+    "simple": 3469
+  },
+  "styleCounts": {
+    "outline": 9109,
+    "filled": 4959,
+    "duotone": 1511,
+    "brand": 3469
+  },
+  "categoryCounts": {
+    "arrows": 1255,
+    "ui": 9958,
+    "technology": 292,
+    "vehicles": 192,
+    "development": 260,
+    "navigation": 165,
+    "food": 136,
+    "files": 660,
+    "finance": 528,
+    "education": 168,
+    "ecommerce": 180,
+    "medical": 86,
+    "buildings": 198,
+    "communication": 401,
+    "social": 210,
+    "gaming": 103,
+    "weather": 268,
+    "users": 240,
+    "maps": 279,
+    "brands": 3469
+  },
+  "duplicateCount": 327,
+  "duplicateSamples": [
+    {
+      "slug": "alarm-clock-check",
+      "pack": "lucide",
+      "kept": "lucide-alarm-check"
+    },
+    {
+      "slug": "alarm-minus",
+      "pack": "lucide",
+      "kept": "lucide-alarm-clock-minus"
+    },
+    {
+      "slug": "alarm-plus",
+      "pack": "lucide",
+      "kept": "lucide-alarm-clock-plus"
+    },
+    {
+      "slug": "archive-restore",
+      "pack": "lucide",
+      "kept": "lucide-archive-arrow-up"
+    },
+    {
+      "slug": "arrow-down-01",
+      "pack": "lucide",
+      "kept": "lucide-arrow-down-0-1"
+    },
+    {
+      "slug": "arrow-down-10",
+      "pack": "lucide",
+      "kept": "lucide-arrow-down-1-0"
+    },
+    {
+      "slug": "arrow-down-az",
+      "pack": "lucide",
+      "kept": "lucide-arrow-down-a-z"
+    },
+    {
+      "slug": "arrow-down-za",
+      "pack": "lucide",
+      "kept": "lucide-arrow-down-z-a"
+    },
+    {
+      "slug": "arrow-up-01",
+      "pack": "lucide",
+      "kept": "lucide-arrow-up-0-1"
+    },
+    {
+      "slug": "arrow-up-10",
+      "pack": "lucide",
+      "kept": "lucide-arrow-up-1-0"
+    },
+    {
+      "slug": "arrow-up-az",
+      "pack": "lucide",
+      "kept": "lucide-arrow-up-a-z"
+    },
+    {
+      "slug": "arrow-up-za",
+      "pack": "lucide",
+      "kept": "lucide-arrow-up-z-a"
+    },
+    {
+      "slug": "axis-3d",
+      "pack": "lucide",
+      "kept": "lucide-axis-3-d"
+    },
+    {
+      "slug": "badge-exclamation-point",
+      "pack": "lucide",
+      "kept": "lucide-badge-alert"
+    },
+    {
+      "slug": "badge-question-mark",
+      "pack": "lucide",
+      "kept": "lucide-badge-help"
+    },
+    {
+      "slug": "battery-warning",
+      "pack": "lucide",
+      "kept": "lucide-battery-exclamation-point"
+    },
+    {
+      "slug": "between-horizontal-end",
+      "pack": "lucide",
+      "kept": "lucide-between-horizonal-end"
+    },
+    {
+      "slug": "between-horizontal-start",
+      "pack": "lucide",
+      "kept": "lucide-between-horizonal-start"
+    },
+    {
+      "slug": "book-exclamation-point",
+      "pack": "lucide",
+      "kept": "lucide-book-alert"
+    },
+    {
+      "slug": "book-marked",
+      "pack": "lucide",
+      "kept": "lucide-book-bookmark"
+    },
+    {
+      "slug": "book-template",
+      "pack": "lucide",
+      "kept": "lucide-book-dashed"
+    },
+    {
+      "slug": "building-complex",
+      "pack": "lucide",
+      "kept": "lucide-building-2"
+    },
+    {
+      "slug": "chart-area",
+      "pack": "lucide",
+      "kept": "lucide-area-chart"
+    },
+    {
+      "slug": "chart-bar-big",
+      "pack": "lucide",
+      "kept": "lucide-bar-chart-horizontal-big"
+    },
+    {
+      "slug": "chart-bar",
+      "pack": "lucide",
+      "kept": "lucide-bar-chart-horizontal"
+    },
+    {
+      "slug": "chart-candlestick",
+      "pack": "lucide",
+      "kept": "lucide-candlestick-chart"
+    },
+    {
+      "slug": "chart-column-big",
+      "pack": "lucide",
+      "kept": "lucide-bar-chart-big"
+    },
+    {
+      "slug": "chart-column-increasing",
+      "pack": "lucide",
+      "kept": "lucide-bar-chart-4"
+    },
+    {
+      "slug": "chart-column",
+      "pack": "lucide",
+      "kept": "lucide-bar-chart-3"
+    },
+    {
+      "slug": "chart-no-axes-column-increasing",
+      "pack": "lucide",
+      "kept": "lucide-bar-chart"
+    }
+  ],
+  "unreadable": 0,
+  "shards": 51,
+  "excludedPacks": [
+    {
+      "name": "Remix Icon",
+      "reason": "Remix Icon License v1.0 forbids using the icons to build a competing icon library."
+    },
+    {
+      "name": "Feather",
+      "reason": "Lucide already includes the Feather-derived artwork. Importing both would duplicate those icons."
+    },
+    {
+      "name": "Heroicons mini and micro",
+      "reason": "Same drawings as the 24px outline and solid sets, only on a smaller grid."
+    },
+    {
+      "name": "Phosphor thin, light, and bold",
+      "reason": "Stroke-weight repeats of the regular Phosphor drawings. Regular, fill, and duotone are included."
+    },
+    {
+      "name": "Font Awesome Free",
+      "reason": "Not needed to reach the catalog size. Brand marks would also overlap Simple Icons. CC BY 4.0 would have allowed use with attribution."
+    },
+    {
+      "name": "Material Symbols and Material Design Icons",
+      "reason": "Apache 2.0 would allow redistribution. They were left out so the catalog would not double up thousands of the same concepts already covered, and because Material Symbols are weight variants of one glyph."
+    }
+  ]
+}

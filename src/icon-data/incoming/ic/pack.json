@@ -1,0 +1,13 @@
+{
+  "pack": "ic",
+  "name": "Material Icons",
+  "license": "Apache-2.0",
+  "licenseName": "Apache License 2.0",
+  "licenseUrl": "https://github.com/google/material-design-icons/blob/master/LICENSE",
+  "website": "https://fonts.google.com/icons",
+  "source": "https://github.com/google/material-design-icons",
+  "attribution": "Material Icons by Google, Apache License 2.0.",
+  "sourceIcons": 10956,
+  "imported": 10955,
+  "skipped": 1
+}

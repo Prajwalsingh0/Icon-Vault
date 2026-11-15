@@ -1,0 +1,15 @@
+{
+  "pack": "typcn",
+  "name": "Typicons",
+  "license": "CC-BY-SA-4.0",
+  "licenseName": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "website": "https://www.s-ings.com/typicons/",
+  "source": "https://github.com/stephenhutchings/typicons.font",
+  "attribution": "Typicons by Stephen Hutchings, CC BY-SA 4.0. Attribution required.",
+  "attributionRequired": true,
+  "style": "filled",
+  "sourceIcons": 336,
+  "imported": 336,
+  "skipped": 0
+}

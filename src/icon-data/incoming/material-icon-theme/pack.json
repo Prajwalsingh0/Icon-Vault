@@ -1,0 +1,15 @@
+{
+  "pack": "material-icon-theme",
+  "name": "Material Icon Theme",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/material-extensions/vscode-material-icon-theme/blob/main/LICENSE",
+  "website": "https://github.com/material-extensions/vscode-material-icon-theme",
+  "source": "https://github.com/material-extensions/vscode-material-icon-theme",
+  "attribution": "Material Icon Theme, MIT License.",
+  "style": "color",
+  "category": "files",
+  "sourceIcons": 1181,
+  "imported": 910,
+  "skipped": 271
+}

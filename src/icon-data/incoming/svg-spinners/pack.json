@@ -1,0 +1,15 @@
+{
+  "pack": "svg-spinners",
+  "name": "SVG Spinners",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/n3r4zzurr0/svg-spinners/blob/main/LICENSE",
+  "website": "https://github.com/n3r4zzurr0/svg-spinners",
+  "source": "https://github.com/n3r4zzurr0/svg-spinners",
+  "attribution": "SVG Spinners by n3r4zzurr0, MIT License.",
+  "style": "animated",
+  "category": "animated",
+  "sourceIcons": 46,
+  "imported": 46,
+  "skipped": 0
+}

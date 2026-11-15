@@ -1,0 +1,14 @@
+{
+  "pack": "proicons",
+  "name": "ProIcons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/proicons/proicons/blob/main/LICENSE",
+  "website": "https://proicons.com",
+  "source": "https://github.com/proicons/proicons",
+  "attribution": "ProIcons, MIT License.",
+  "style": "outline",
+  "sourceIcons": 552,
+  "imported": 544,
+  "skipped": 8
+}

@@ -1,0 +1,15 @@
+{
+  "pack": "healthicons",
+  "name": "Health Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/resolvetosavelives/healthicons/blob/master/LICENSE",
+  "website": "https://healthicons.org",
+  "source": "https://github.com/resolvetosavelives/healthicons",
+  "attribution": "Health Icons by Resolve to Save Lives, MIT License.",
+  "style": "filled",
+  "category": "medical",
+  "sourceIcons": 2797,
+  "imported": 2128,
+  "skipped": 669
+}

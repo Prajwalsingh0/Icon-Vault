@@ -1,0 +1,15 @@
+{
+  "pack": "devicon",
+  "name": "Devicon",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/devicons/devicon/blob/master/LICENSE",
+  "website": "https://devicon.dev",
+  "source": "https://github.com/devicons/devicon",
+  "attribution": "Devicon by Konpa, MIT License.",
+  "style": "brand",
+  "category": "brands",
+  "sourceIcons": 1153,
+  "imported": 1147,
+  "skipped": 6
+}

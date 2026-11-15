@@ -1,0 +1,16 @@
+{
+  "pack": "openmoji",
+  "name": "OpenMoji",
+  "license": "CC-BY-SA-4.0",
+  "licenseName": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "website": "https://openmoji.org",
+  "source": "https://github.com/hfg-gmuend/openmoji",
+  "attribution": "OpenMoji by the OpenMoji project, CC BY-SA 4.0. Attribution required.",
+  "attributionRequired": true,
+  "style": "color",
+  "category": "emoji",
+  "sourceIcons": 4581,
+  "imported": 4546,
+  "skipped": 35
+}

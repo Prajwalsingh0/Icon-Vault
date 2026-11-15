@@ -1,0 +1,14 @@
+{
+  "pack": "tdesign",
+  "name": "TDesign Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/Tencent/tdesign-icons/blob/main/LICENSE",
+  "website": "https://tdesign.tencent.com",
+  "source": "https://github.com/Tencent/tdesign-icons",
+  "attribution": "TDesign Icons by Tencent, MIT License.",
+  "style": "filled",
+  "sourceIcons": 2366,
+  "imported": 2358,
+  "skipped": 8
+}

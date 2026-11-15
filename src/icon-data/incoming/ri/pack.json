@@ -1,0 +1,13 @@
+{
+  "pack": "ri",
+  "name": "Remix Icon",
+  "license": "Apache-2.0",
+  "licenseName": "Apache License 2.0",
+  "licenseUrl": "https://github.com/Remix-Design/RemixIcon/blob/master/License",
+  "website": "https://remixicon.com",
+  "source": "https://github.com/Remix-Design/RemixIcon",
+  "attribution": "Remix Icon by Remix Design, Apache License 2.0.",
+  "sourceIcons": 3229,
+  "imported": 3188,
+  "skipped": 41
+}

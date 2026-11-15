@@ -1,0 +1,15 @@
+{
+  "pack": "maki",
+  "name": "Maki Icons",
+  "license": "CC0-1.0",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "website": "https://www.mapbox.com/maki",
+  "source": "https://github.com/mapbox/maki",
+  "attribution": "Maki Icons by Mapbox, CC0.",
+  "style": "filled",
+  "category": "maps",
+  "sourceIcons": 418,
+  "imported": 215,
+  "skipped": 203
+}

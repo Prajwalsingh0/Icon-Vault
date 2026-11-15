@@ -1,0 +1,15 @@
+{
+  "pack": "ci",
+  "name": "Circlicons",
+  "license": "CC-BY-4.0",
+  "licenseName": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "website": "https://circumicons.com",
+  "source": "https://github.com/Kampus-Creative/circum-icons",
+  "attribution": "Circum Icons by Kampus, CC BY 4.0. Attribution required.",
+  "attributionRequired": true,
+  "style": "filled",
+  "sourceIcons": 715,
+  "imported": 442,
+  "skipped": 273
+}

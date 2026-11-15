@@ -1,0 +1,14 @@
+{
+  "pack": "octicon",
+  "name": "Octicons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/primer/octicons/blob/main/LICENSE",
+  "website": "https://primer.style/octicons",
+  "source": "https://github.com/primer/octicons",
+  "attribution": "Octicons by GitHub, MIT License.",
+  "style": "filled",
+  "sourceIcons": 963,
+  "imported": 780,
+  "skipped": 183
+}

@@ -1,0 +1,13 @@
+{
+  "pack": "eva",
+  "name": "Eva Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/akveo/eva-icons/blob/master/LICENSE",
+  "website": "https://akveo.github.io/eva-icons",
+  "source": "https://github.com/akveo/eva-icons",
+  "attribution": "Eva Icons by Akveo, MIT License.",
+  "sourceIcons": 490,
+  "imported": 490,
+  "skipped": 0
+}

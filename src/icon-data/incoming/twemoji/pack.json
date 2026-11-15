@@ -1,0 +1,16 @@
+{
+  "pack": "twemoji",
+  "name": "Twemoji",
+  "license": "CC-BY-4.0",
+  "licenseName": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "website": "https://twemoji.twitter.com",
+  "source": "https://github.com/jdecked/twemoji",
+  "attribution": "Twemoji by Twitter, CC BY 4.0. Attribution required.",
+  "attributionRequired": true,
+  "style": "color",
+  "category": "emoji",
+  "sourceIcons": 4169,
+  "imported": 3988,
+  "skipped": 181
+}

@@ -1,0 +1,14 @@
+{
+  "pack": "bytesize",
+  "name": "Bytesize Icons",
+  "license": "MIT",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://github.com/danklammer/bytesize-icons/blob/master/LICENSE",
+  "website": "https://github.com/danklammer/bytesize-icons",
+  "source": "https://github.com/danklammer/bytesize-icons",
+  "attribution": "Bytesize Icons by Dan Klammer, MIT License.",
+  "style": "filled",
+  "sourceIcons": 102,
+  "imported": 101,
+  "skipped": 1
+}

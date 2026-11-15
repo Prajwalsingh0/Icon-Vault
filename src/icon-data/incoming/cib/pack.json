@@ -1,0 +1,16 @@
+{
+  "pack": "cib",
+  "name": "CoreUI Brands",
+  "license": "CC0-1.0",
+  "licenseName": "CC0 1.0 Universal",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "website": "https://coreui.io",
+  "source": "https://github.com/coreui/coreui-icons",
+  "attribution": "CoreUI Icons is released under CC0. Brand names and logos are trademarks of their owners.",
+  "attributionRequired": true,
+  "style": "brand",
+  "category": "brands",
+  "sourceIcons": 830,
+  "imported": 830,
+  "skipped": 0
+}
